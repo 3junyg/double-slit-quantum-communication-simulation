@@ -1,0 +1,6 @@
+*.pdf
+*.docx
+*.tex
+formula_cards/
+__pycache__/
+*.pyc
